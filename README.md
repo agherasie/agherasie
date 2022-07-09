@@ -1,4 +1,4 @@
-# Alexandru Gherasie
+<h1 align="center">Hey, I'm Alex Gherasie</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&color=249CCD&lines=%24+About+me%3A;%24+2nd+Year+Epitech+Student+!;%24+Member+of+PoC+!)](https://git.io/typing-svg)
 
