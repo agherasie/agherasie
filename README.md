@@ -14,7 +14,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Django-yellow?style=for-the-badge&logo=django"/>
   <img src="https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js"/>
   <img src="https://img.shields.io/badge/-NestJS-yellow?style=for-the-badge&logo=nestjs"/>
