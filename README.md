@@ -20,7 +20,3 @@
   <img src="https://img.shields.io/badge/-Docker-red?style=for-the-badge&logo=docker"/>
   <img src="https://img.shields.io/badge/-Pytorch-black?style=for-the-badge&logo=pytorch"/>
 </p>
-
-<p align="center">
-  <img src="https://wakatime.com/badge/user/24d89f63-9959-4c76-84e7-139e2510b42d.svg"/>
-</p>
